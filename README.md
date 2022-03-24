@@ -1,5 +1,5 @@
 # 👋 Hello. Lab
-- 연구실 통합 관리 플랫폼 Hello. Lab
+- 대학 연구실의 프로젝트를 관리하고, 교수와 연구원의 소통을 돕는 플랫폼
 - 2021 단국대학교 경소톤
 
   - [아이디어 계획서](./.github/아이디어계획서_단꾸코.pdf)
@@ -25,4 +25,4 @@
 - Infra: `Nginx`, `NHN Toast`
 
 ## 📽️ Screen
-[시연 영상](https://api-storage.cloud.toast.com/v1/AUTH_c7a133d981484d1687bdce877f0e4537/DK-LAB-IMAGE/%E1%84%89%E1%85%B5%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%20%E1%84%91%E1%85%A7%E1%86%AB%E1%84%8C%E1%85%B5%E1%86%B8%E1%84%87%E1%85%A9%E1%86%AB.mp4)
+[시연 영상](https://www.notion.so/Hello-Lab-79c20477d0c8453886bd44c5790d6276#3b48413c3da741a3b97f4e0999c25739)
