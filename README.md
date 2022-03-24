@@ -25,4 +25,4 @@
 - Infra: `Nginx`, `NHN Toast`
 
 ## 📽️ Screen
-[시연 영상](https://www.notion.so/Hello-Lab-79c20477d0c8453886bd44c5790d6276#3b48413c3da741a3b97f4e0999c25739)
+[시연 영상](https://www.youtube.com/watch?v=U7TcgmUL79k&feature=youtu.be)
